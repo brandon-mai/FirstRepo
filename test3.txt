@@ -1,3 +1,6 @@
 Bài này nghịch tag
+
 First change to add lightweight tag to
 Second change to add lightweight tag to
+
+First change to add annotated tag to
